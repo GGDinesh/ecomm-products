@@ -1,0 +1,22 @@
+{
+  "name": "ecomm-products",
+  "version": "1.0.0",
+  "description": "ecomm backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGDinesh/ecomm-products.git"
+  },
+  "author": "Dinesh Guru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGDinesh/ecomm-products/issues"
+  },
+  "homepage": "https://github.com/GGDinesh/ecomm-products#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

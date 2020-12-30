@@ -77,19 +77,6 @@ const products = [
     rating: 4,
     numReviews: 12,
   },
-  {
-    _id: '7',
-    name: 'Boat Rockerz 510',
-    image: '/images/boat.jpg',
-    description:
-      'Boat Rockerz 510 is just amazing headphones, I have ever used. Charge for an hour and enjoy listening music for a month',
-    brand: 'Boats',
-    category: 'Electronics',
-    price: 29.99,
-    countInStock: 0,
-    rating: 4.5,
-    numReviews: 22,
-  },
 ]
 
-export default products
+module.exports = products
